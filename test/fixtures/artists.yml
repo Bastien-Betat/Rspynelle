@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Pseudo: MyString
+  Image: MyText
+  Art_movment: MyString
+  Description: MyText
+  Image_presentation: MyText
+  Insta: MyString
+  Link: MyString
+
+two:
+  Pseudo: MyString
+  Image: MyText
+  Art_movment: MyString
+  Description: MyText
+  Image_presentation: MyText
+  Insta: MyString
+  Link: MyString
